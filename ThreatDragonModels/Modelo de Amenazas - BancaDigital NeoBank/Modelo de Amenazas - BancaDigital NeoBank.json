@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0.0",
+  "released_at": "2026-10-05",
+  "summary": {
+    "title": "Modelo de Amenazas - BancaDigital NeoBank",
+    "owner": "Jessica Melendrez",
+    "description": "Plataforma de Banca Digital Transaccional (BancaDigital NeoBank). Incluye App Móvil, Portal Web React, API Gateway, Microservicio de Autenticación IAM, Microservicio de Transacciones, Middleware ESB, Redis Cache, PostgreSQL y Core Bancario Legacy.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 1,
+        "title": "DFD Nivel 1 - Ecosistema Transaccional",
+        "diagramType": "STRIDE",
+        "placeholder": "Descripción de nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "STRIDE"
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "Catedrático de Seguridad en Aplicaciones",
+    "threatTop": 0
+  }
+}
